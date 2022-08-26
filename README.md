@@ -3,11 +3,6 @@
 ## Reference
 
 If you found this code useful in your reseach, please cite:
-
-**An investigation of XGBoost-based algorithm for breast cancer classification**\
-Liew, Xin Yu, Nazia Hameed, and Jeremie Clos\
-Machine Learning with Applications\
-2021
 ```
 @article{LIEW2021100154,
   title = {An investigation of XGBoost-based algorithm for breast cancer classification},
@@ -41,5 +36,5 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 * Once eveything is set up, you'll can view the Jupyter notebook interface with the "Jupyter Server" indicator at the top right
 * Make sure the setting "Jupyter: Use Notebook Editor" is enabled
 
-*Note: Additionally, /main_code/Python_file/ contains python files generated from google colab. 
-*A Google Colab Pro version with 25GB RAM is used in this project for training.
+* Note: Additionally, /main_code/Python_file/ contains python files generated from google colab. 
+* A Google Colab Pro version with 25GB RAM is used in this project for training.
