@@ -32,5 +32,5 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 * Once eveything is set up, you'll can view the Jupyter notebook interface with the "Jupyter Server" indicator at the top right
 * Make sure the setting "Jupyter: Use Notebook Editor" is enabled
 
-Note: Additionally, /main_code/Python_file/ contains python files generated from google colab. 
+## Additional information
 A Google Colab Pro version with 25GB RAM is used in this project for training.
