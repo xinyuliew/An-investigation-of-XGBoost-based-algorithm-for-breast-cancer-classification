@@ -16,17 +16,17 @@ If you found this code useful in your reseach, please cite:
 This repository is licensed under the terms of the GNU GPLv3 license.
 
 ## Dataset
-* To obtain the dataset for this project visit this [(Google Drive)](https://drive.google.com/drive/folders/1JwLRvkkvZowtWnMi7TfiFdHjyNj9lbXX?usp=sharing)
+* To obtain the dataset for this project visit this [Google Drive](https://drive.google.com/drive/folders/1JwLRvkkvZowtWnMi7TfiFdHjyNj9lbXX?usp=sharing)
 
 ## Folder description
-* The folder dataset/Original is obtained from [(BreakHis)](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
+* The folder dataset/Original is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
 * The folder dataset/ColourNormalized is obtained by running the MATLAB file: /main_code/MATLAB/ColourNormalization.m
 * The folder final_model folder contains: (1) DenseNet201 files that has save models in h5 file format for feature extraction (2) XGBoost files that has save models in pkl file format for classification
 * Jupyter Notebook: Model training and testing files for classification with output results
 
 ## Access options
 ### Google Colab 
-* Visit [(Google Colab)](https://colab.research.google.com/)
+* Visit [Google Colab](https://colab.research.google.com/)
 * File > Open notebook > GitHub > "Enter link"
 
 ### Visual Studio Code
