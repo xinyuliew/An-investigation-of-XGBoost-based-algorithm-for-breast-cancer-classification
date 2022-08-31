@@ -17,8 +17,8 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 
 ## Dataset
 * To obtain the dataset folder for this project visit this [Google Drive](https://drive.google.com/drive/folders/1JwLRvkkvZowtWnMi7TfiFdHjyNj9lbXX?usp=sharing)
-** (1) Original is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
-** (2) ColourNormalized is the modified version of the same dataset through the MATLAB file: /main_code/MATLAB/ColourNormalization.m
+* Original folder is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
+* ColourNormalized folder is the modified version of the same dataset through the MATLAB file: /main_code/MATLAB/ColourNormalization.m
 
 ## Access options
 ### Google Colab 
