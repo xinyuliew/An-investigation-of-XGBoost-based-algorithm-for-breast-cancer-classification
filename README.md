@@ -4,11 +4,22 @@
 
 If you found this code useful in your reseach, please cite:
 ```
-@article{LIEW2021100154,
-  title = {An investigation of XGBoost-based algorithm for breast cancer classification},
-  author = {Xin Yu Liew and Nazia Hameed and Jeremie Clos},
-  journal = {Machine Learning with Applications},
-  year = {2021}
+@article{liew2021investigation,
+  title={An investigation of XGBoost-based algorithm for breast cancer classification},
+  author={Liew, Xin Yu and Hameed, Nazia and Clos, Jeremie},
+  journal={Machine Learning with Applications},
+  year={2021},
+  publisher={Elsevier}
+}
+```
+This reseach was supported by the following article:
+```
+@article{liew2021review,
+  title={A review of computer-aided expert systems for breast cancer diagnosis},
+  author={Liew, Xin Yu and Hameed, Nazia and Clos, Jeremie},
+  journal={Cancers},
+  year={2021},
+  publisher={Multidisciplinary Digital Publishing Institute}
 }
 ```
 ## License
