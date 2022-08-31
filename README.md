@@ -13,7 +13,7 @@ If you found this code useful in your reseach, please cite:
 }
 ```
 This reseach was supported by the following article:\
-Liew, X.Y.; Hameed, N.; Clos, J. A Review of Computer-Aided Expert Systems for Breast Cancer Diagnosis. Cancers 2021, 13, 2764. https://doi.org/10.3390/cancers13112764
+[1] Liew, Xin Yu, Nazia Hameed, and Jeremie Clos. 2021. "A Review of Computer-Aided Expert Systems for Breast Cancer Diagnosis" Cancers 13, no. 11: 2764.     https://doi.org/10.3390/cancers13112764
 
 ## License
 
