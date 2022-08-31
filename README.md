@@ -18,12 +18,12 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 ## Dataset
 * To obtain the dataset folder for this project visit this [Google Drive](https://drive.google.com/drive/folders/1JwLRvkkvZowtWnMi7TfiFdHjyNj9lbXX?usp=sharing)
 * Original folder is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
-* ColourNormalized folder is the modified version of the same dataset through the MATLAB file: /main_code/MATLAB/ColourNormalization.m
+* ColourNormalized folder is the modified version of the same dataset obtained through running the MATLAB file [ColourNormalization.m](https://github.com/trixieliew/An-investigation-of-XGBoost-based-algorithm-for-breast-cancer-classification/blob/main/main_code/MATLAB/ColourNormalization.m)
 
 ## Access options
 ### Google Colab 
 * Visit [Google Colab](https://colab.research.google.com/)
-* File > Open notebook > GitHub > "Enter link"
+* File > Open notebook > GitHub > "Enter link of .ipynb files"
 
 ### Visual Studio Code
 * Install the Packages using this command line: pip install requirements.txt
