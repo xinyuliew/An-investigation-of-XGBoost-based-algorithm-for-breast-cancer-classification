@@ -13,15 +13,8 @@ If you found this code useful in your reseach, please cite:
 }
 ```
 This reseach was supported by the following article:
-```
-@article{liew2021review,
-  title={A review of computer-aided expert systems for breast cancer diagnosis},
-  author={Liew, Xin Yu and Hameed, Nazia and Clos, Jeremie},
-  journal={Cancers},
-  year={2021},
-  publisher={Multidisciplinary Digital Publishing Institute}
-}
-```
+Liew, X.Y.; Hameed, N.; Clos, J. A Review of Computer-Aided Expert Systems for Breast Cancer Diagnosis. Cancers 2021, 13, 2764. https://doi.org/10.3390/cancers13112764
+
 ## License
 
 This repository is licensed under the terms of the GNU GPLv3 license.
