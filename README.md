@@ -28,6 +28,7 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 ### Google Colab 
 * Visit [(Google Colab)](https://colab.research.google.com/)
 * File > Open notebook > GitHub > "Enter link"
+
 ### Visual Studio Code
 * Install Visual Studio Code in your local desktop
 * Install the Packages using this command line: pip install requirements.txt
@@ -36,5 +37,5 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 * Once eveything is set up, you'll can view the Jupyter notebook interface with the "Jupyter Server" indicator at the top right
 * Make sure the setting "Jupyter: Use Notebook Editor" is enabled
 
-* Note: Additionally, /main_code/Python_file/ contains python files generated from google colab. 
-* A Google Colab Pro version with 25GB RAM is used in this project for training.
+Note: Additionally, /main_code/Python_file/ contains python files generated from google colab. 
+A Google Colab Pro version with 25GB RAM is used in this project for training.
