@@ -24,17 +24,5 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 * Original folder is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
 * ColourNormalized folder is the modified version of the same dataset obtained through running the MATLAB file [ColourNormalization.m](https://github.com/trixieliew/An-investigation-of-XGBoost-based-algorithm-for-breast-cancer-classification/blob/main/main_code/MATLAB/ColourNormalization.m)
 
-## Access options
-### Google Colab 
-* Visit [Google Colab](https://colab.research.google.com/)
-* File > Open notebook > GitHub > "Enter link of .ipynb files"
-
-### Visual Studio Code
-* Install the Packages using this command line: pip install requirements.txt
-* Select the Python environment (with the Jupyter package)
-* Open .ipynb files 
-* Once eveything is set up, you'll can view the Jupyter notebook interface with the "Jupyter Server" indicator at the top right
-* Make sure the setting "Jupyter: Use Notebook Editor" is enabled
-
 ## Additional information
 A Google Colab Pro version with 25GB RAM is used in this project for training.
