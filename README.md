@@ -21,8 +21,8 @@ This repository is licensed under the terms of the GNU GPLv3 license.
 
 ## Dataset
 * To obtain the dataset folder for this project visit this [Google Drive](https://drive.google.com/drive/folders/1JwLRvkkvZowtWnMi7TfiFdHjyNj9lbXX?usp=sharing)
-* Original folder is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
-* ColourNormalized folder is the modified version of the same dataset obtained through running the MATLAB file [ColourNormalization.m](https://github.com/trixieliew/An-investigation-of-XGBoost-based-algorithm-for-breast-cancer-classification/blob/main/main_code/MATLAB/ColourNormalization.m)
+(1) "Original" folder is obtained from [BreakHis](https://web.inf.ufpr.br/vri/databases/breast-cancer-histopathological-database-breakhis/)
+(2) "ColourNormalized" folder is the modified version of the same dataset obtained through running the MATLAB file [ColourNormalization.m](https://github.com/trixieliew/An-investigation-of-XGBoost-based-algorithm-for-breast-cancer-classification/blob/main/main_code/MATLAB/ColourNormalization.m)
 
 ## Additional information
 A Google Colab Pro version with 25GB RAM is used in this project for training.
